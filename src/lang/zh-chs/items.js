@@ -1,5 +1,7 @@
 "use strict";
+
 T.items = {
+    “protable“：“便携的“，
     "circle-of-fire-scroll": "这个卷轴可以让你释放一个强大的火焰光环,这或许是一个炼金士最强大的创作。",
     "scroll-of-town-portal": "这个卷轴可以让你从大陆任意地方迅速回到城镇,如果你在森林里迷路。",
     "bloody-gem": "一块石头注入了恶魔血的本质,一个奇怪的光环散发在你手中握着的石头。",
